@@ -36,6 +36,7 @@ html, body{
     padding: 20px;
 }
 
+
 .calendar{
     position: relative;
     width: 100%;
@@ -71,7 +72,7 @@ html, body{
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    height: 15px;
+    height: 150px;
     padding: 0 50px;
     font-size: 1.2rem;
     font-weight: 500;
